@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Currently Building:
+[Qurannotate.com](https://qurannotate.com)
+[salah.bot](https://salah-bot.pages.dev)
+
+## Who Am I?
+I'm Ardax, building websites (some I can't show), scripts and programs to improve my web development.
+Data Engineering is the career path I pivoted into.
