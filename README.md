@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my humble profile 👋
 
 <!--
 **ArdaxHz/ArdaxHz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Currently Building:
-[Qurannotate.com](https://qurannotate.com)
+### Currently Building:
+[Qurannotate.com](https://qurannotate.com)\
 [salah.bot](https://salah-bot.pages.dev)
 
-## Who Am I?
+### Who Am I?
 I'm Ardax, building websites (some I can't show), scripts and programs to improve my web development.
 Data Engineering is the career path I pivoted into.
