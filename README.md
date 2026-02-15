@@ -30,5 +30,4 @@ The DevOps [Roadmap](https://roadmap.sh/devops)
 I'm Ardax, building things and possibly vibing, to improve my engineering skills. Learning and researching more on infra, pipelines, and AI/ML.
 
 
-~Claude Code changed my life. I do not know what to do without it anymore.~
-
+<sub>Claude Code changed my life. I do not know what to do without it anymore.</sub>
